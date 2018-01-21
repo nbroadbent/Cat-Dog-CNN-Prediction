@@ -1,2 +1,9 @@
 
 *.jpg
+dataset/test_set/cats/.DS_Store
+dataset/training_set/dogs/.DS_Store
+dataset/training_set/cats/.DS_Store
+dataset/training_set/.DS_Store
+dataset/test_set/dogs/.DS_Store
+dataset/test_set/.DS_Store
+dataset/.DS_Store
